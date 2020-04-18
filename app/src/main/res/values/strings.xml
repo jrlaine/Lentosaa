@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lentosaa</string>
+    <string name="large_text">
+        "Tähän tulee säätietoja"</string>
+
+
+
+    <string name="action_settings">Settings</string>
+    <string name="maintitle">Lentosää</string>
+    <string name="mainsubtitle">Etsii METARit ja TAFit lentopaikoille.</string>
+    <string name="mainhint">EFJY, EFKU, ...</string>
+    <string name="toggleoff">Ei</string>
+    <string name="toggleon">Kyllä</string>
+    <string name="hae">Hae</string>
+    <string name="takaisin">Takaisin</string>
+</resources>
